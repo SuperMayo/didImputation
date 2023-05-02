@@ -30,7 +30,7 @@ Config/testthat/edition: 3
 Imports: 
     data.table,
     ggplot2,
-    fixest (>= 0.10.1),
+    fixest (>= 0.9.0),
     collapse,
     rlang,
     purrr,
